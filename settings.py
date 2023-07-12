@@ -1,0 +1,13 @@
+RESIZE = 4
+
+TILE_SIZE = 16
+PLAYER_SPEED = 250
+GRAVITY = 980
+
+screen_width, screen_height = 320 * RESIZE, 180 * RESIZE
+
+TPS = 6000
+DEBUG = False
+MUSIC_ENABLED = False
+
+DELAY_BETWEEN_SCENE = 0.5
