@@ -19,6 +19,7 @@ Un simple jeu de plateforme pour tester des fonctionnalités, l'intégralité de
 
 ## Futures mises à jour
 
+- Ajout d'une classe SoundManager pour gérer proprement les sons
 - Fix de bugs: Animation du dino rouge
 - Ajout de différents modes de caméra: suivi de plusieurs objets, centrage sur un point fixe, ...
 - Ajout d'effets de camera: zoom-dezoom, tremblement, ...
