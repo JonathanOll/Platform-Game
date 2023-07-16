@@ -19,16 +19,16 @@ Un simple jeu de plateforme pour tester des fonctionnalités, l'intégralité de
 
 ## Futures mises à jour
 
-- Ajout d'une classe SoundManager pour gérer proprement les sons
-- Fix de bugs: Animation du dino rouge
-- Ajout de différents modes de caméra: suivi de plusieurs objets, centrage sur un point fixe, ...
-- Ajout d'effets de camera: zoom-dezoom, tremblement, ...
-- Ajout de la possibilité de choisir le tileset et le background pour un monde
-- Ajout du jeu en réseau: serveur dédié, joueur-hôte, réseau local
-- Ajout de pièges et de nouveaux ennemis
-- Ajout d'un menu entre les niveaux, possiblement de mondes/planètes
-- Ajout du menu d'option
-- Dans un futur plus ou moins lointain, nouveaux graphismes propres au jeu
+- [ ] Ajout d'une classe SoundManager pour gérer proprement les sons
+- [ ] Fix de bugs: Animation du dino rouge
+- [ ] Ajout de différents modes de caméra: suivi de plusieurs objets, centrage sur un point fixe, ...
+- [ ] Ajout d'effets de camera: zoom-dezoom, tremblement, ...
+- [ ] Ajout de la possibilité de choisir le tileset et le background pour un monde
+- [ ] Ajout du jeu en réseau: serveur dédié, joueur-hôte, réseau local
+- [ ] Ajout de pièges et de nouveaux ennemis
+- [ ] Ajout d'un menu entre les niveaux, possiblement de mondes/planètes
+- [ ] Ajout du menu d'option
+- [ ] Dans un futur plus ou moins lointain, nouveaux graphismes propres au jeu
 
 ## Installation
 
