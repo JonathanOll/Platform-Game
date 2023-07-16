@@ -21,6 +21,7 @@ Un simple jeu de plateforme pour tester des fonctionnalités, l'intégralité de
 
 - [ ] Ajout d'une classe SoundManager pour gérer proprement les sons
 - [ ] Fix de bugs: Animation du dino rouge
+- [ ] Amélioration du menu principal
 - [ ] Ajout de différents modes de caméra: suivi de plusieurs objets, centrage sur un point fixe, ...
 - [ ] Ajout d'effets de camera: zoom-dezoom, tremblement, ...
 - [ ] Ajout de la possibilité de choisir le tileset et le background pour un monde
